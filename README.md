@@ -24,16 +24,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 </div>
 </div>   
-          
-  <style>
-    .flex-container {
-    display: flex; 
-    flex-direction: row;
-    }
-</style>        
+
           
           
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&title_bg=%23258625&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=vue&edge_flat=true)](https://hits.seeyoufarm.com)
