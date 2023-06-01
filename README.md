@@ -34,14 +34,10 @@ Here are some ideas to get you started:
     </span>
     <span>
       <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-    </span>
-  
-
-  
-      <span>
+  </span> 
+   <span>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-    </span>
-  
+  </span>
       <span>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     </span>
