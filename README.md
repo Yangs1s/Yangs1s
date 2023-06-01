@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
+    <div>
+  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+</div>
 </div>   
 
           
           
- url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%233005E7&icon=css3.svg&icon_color=%23FFFFFF&title=css&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%23F77B16&icon=html5.svg&icon_color=%23FFFFFF&title=HTML&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%23FFB488&icon=styled-components.svg&icon_color=%23FFFFFF&title=Styled-Component&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangs1s&show_icons=true&theme=radical)
