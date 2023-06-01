@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%2379C83D&title_bg=%232CC9E5&icon=react.svg&icon_color=%23E7E7E7&title=react&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%23258625&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=vue&edge_flat=true)](https://hits.seeyoufarm.com)
+![react](https://github.com/Yangs1s/Yangs1s/assets/92585734/af39b4ce-61fb-4dc6-8231-83977f0bcd61)
