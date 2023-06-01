@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Tech Stacks 
 
-
-<img src="https://img.shields.io/badge/vue-#4FC08D?style=flat-square&logo=vuedotjs&logoColor=#4FC08D"/>
-
+<p>
+<img src="https://img.shields.io/badge/vue-#4FC08D?style=flat-square&logo=vuedotjs&logoColor=white/>
+</p>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&title_bg=%23258625&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=vue&edge_flat=true)](https://hits.seeyoufarm.com)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%236BC5C8&icon=react.svg&icon_color=%23494949&title=React&edge_flat=true)](https://hits.seeyoufarm.com)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%234789F3&icon=typescript.svg&icon_color=%23FFFFFF&title=TypeScript&edge_flat=true)](https://hits.seeyoufarm.com)
