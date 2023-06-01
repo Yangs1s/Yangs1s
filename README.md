@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Tech Stacks 
 
 <p>
-<img src="https://img.shields.io/badge/vue-#4FC08D?style=flat-square&logo=vuedotjs&logoColor=white/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white/>
 </p>
           
           
