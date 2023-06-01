@@ -35,7 +35,9 @@ Here are some ideas to get you started:
     <span>
       <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
     </span>
+  
   <br/>
+  
       <span>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
     </span>
