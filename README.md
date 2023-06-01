@@ -17,27 +17,13 @@ Here are some ideas to get you started:
 ### Tech Stacks 
 
   <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-<p>
+<div>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
-<p>
+</div>
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
-</p>
+</div>
+
 </div>   
           
           
