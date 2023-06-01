@@ -35,10 +35,25 @@ Here are some ideas to get you started:
     <span>
       <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
     </span>
+  <br/>
+      <span>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+    </span>
+  
+      <span>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    </span>
+      <span>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css5&logoColor=white"/>
+    </span>
+      <span>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </span>
 </div>   
 
           
           
-
-
+<br/>
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangs1s&show_icons=true&theme=radical)
