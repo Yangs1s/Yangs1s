@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Tech Stacks 
 
-<div>
+<div><!-- .element: style="display: flex; flex-direction: row;" -->
 <p>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 </p>
