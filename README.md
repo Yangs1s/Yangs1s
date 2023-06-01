@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 </p>
 
           
