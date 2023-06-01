@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+  
+  <div>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%23258625&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=vue&edge_flat=true)](https://hits.seeyoufarm.com)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%236BC5C8&icon=react.svg&icon_color=%23494949&title=React&edge_flat=true)](https://hits.seeyoufarm.com)
+  
   </div>
+  
+  <div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangs1s%2FYangs1s&count_bg=%23000000&title_bg=%236BC5C8&icon=react.svg&icon_color=%23494949&title=React&edge_flat=true)](https://hits.seeyoufarm.com)
+
+  </div>
+    </div>
