@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### Tech Stacks 
 
   <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+    <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a>
     <span>
       <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
     </span>
